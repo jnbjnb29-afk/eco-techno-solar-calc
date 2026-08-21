@@ -1,16 +1,2 @@
-
-
-
-
-
-
-
-
-
-
-
-
-                                                      streamlit
-
-
-
+streamlit
+numpy
